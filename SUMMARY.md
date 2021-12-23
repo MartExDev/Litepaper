@@ -53,3 +53,4 @@
 - [Telegram](https://t.me/shopfi_official)
 - [Medium](https://shopfi.medium.com)
 - [Discord](https://discord.gg/TUVqu5q68D)
+- [Github](https://github.com/ShopFi-App)
