@@ -49,7 +49,7 @@
 
 ## Community
 
-- [Twitter](https://twitter.com/shopfi_network)
-- [Telegram](https://t.me/shopfiofficial)
+- [Twitter](https://twitter.com/shopfi_app)
+- [Telegram](https://t.me/shopfi_official)
 - [Medium](https://shopfi.medium.com)
-- [Discord](https://discord.gg/CjT67E6uGW)
+- [Discord](https://discord.gg/TUVqu5q68D)
