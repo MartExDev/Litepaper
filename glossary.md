@@ -14,7 +14,7 @@
 
 > **Sellers**
 >
-> Refers to store**s** in a traditional malls such as Amazon, Alibaba and Walmart, which can be an individual or a company. In a future version, sellers can also directly open store merchants in Maiinet.
+> Refers to store**s** in a traditional malls such as Amazon, Alibaba and Walmart, which can be an individual or a company. In a future version, sellers can also directly open store merchants in ShopFi.
 
 > **Brokers**
 >
@@ -34,7 +34,7 @@
 
 > **Transactions**
 >
-> Refers to transaction**s** between buyers, brokers and sellers (in the future) in ShopFi. All publicable transaction data will be recorded fairly and openly by the smart contract. The corresponding key data will be stored in the smart contract, and other non-key public information will be stored in decentralized storage onchain (such as IPFS and Arweave, etc.). Private / sesentive information will not be stored anywhere, and will be destroyed after use.
+> Refers to transaction**s** between buyers, brokers and sellers (in the future) in ShopFi. All publicable transaction data will be recorded fairly and openly by the smart contract. The corresponding key data will be stored in the smart contract, and other non-key public information will be stored in decentralized storage onchain (such as IPFS and Arweave, etc.). Private / sensitive information will not be stored anywhere, and will be destroyed after use.
 
 > **Developers**
 >
@@ -46,12 +46,12 @@
 
 > **\$ShopFi Token**
 >
-> Refers to the token issued by ShopFi Netowrk, which will empower the ecology from all aspects and encourage participants in all ways to make their own contributions to the development of the ecology. The \$ShopFi token will be issued using the ERC20 standard. For details, please refer to the following chapter: Tokenomics.
+> Refers to the token issued by ShopFi Network, which will empower the ecology from all aspects and encourage participants in all ways to make their own contributions to the development of the ecology. The \$ShopFi token will be issued using the ERC20 standard. For details, please refer to the following chapter: Tokenomics.
 
 > **Token Holders**
 >
 > Refers to users who believe in the future development of the ShopFi ecosystem and are holding \$ShopFi tokens. Token holders will have different rights in different perspectives.
 
-> **MIP (ShopFi Improvement Proposals)**
+> **SIP (ShopFi Improvement Proposals)**
 >
-> Refers to the proposals released in the DAO community for the development of the ShopFi ecology. The proposal can only be released by members of the governance committee, while other users can vote on this proposal. In the early stage, ShopFi Global decides whether to implemen a certain proposal. In the future, the community will gradually be given more autonomy.
+> Refers to the proposals released in the DAO community for the development of the ShopFi ecology. The proposal can only be released by members of the governance committee, while other users can vote on this proposal. In the early stage, ShopFi Global decides whether to implement a certain proposal. In the future, the community will gradually be given more autonomy.
