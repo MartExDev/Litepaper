@@ -5,3 +5,5 @@ ShopFi is a decentralized protocol composed of a series of modules, including ba
 ShopFi aims to build decentralized e-commerce protocols using Web3.0 technology, bringing in Defi & metaverse seamless shopping experience.&#x20;
 
 ShopFi solves the issue of traditional e-commerce with innovative, creative and revolutionary concepts, providing a decentralized, multiple-party-involved and mutual-beneficiary solutions.&#x20;
+
+![](../.gitbook/assets/telegram-cloud-photo-size-5-6208611175147613703-y.jpg)
