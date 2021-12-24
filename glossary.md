@@ -6,7 +6,7 @@
 
 > **ShopFi DAO**
 >
-> At the beginning, this will be an off-chain, gas-free community. The governance committee can issue new proposals on ShopFi Global or vote for existing proposals. In the early stage, the proposal will be implemented at the discretion of ShopFi Global. In the future , more control will be transferred to a more decentralized and open smart contract system for execution, allowing the community to have more power and control.
+> This will be a community that will be off chain and does not require consuming GAS at the start, where the governance committee can publish new proposals on ShopFi Global or vote on proposals that already exist. In early stages, proposals will be implemented by ShopFi Global on a discretionary basis. In the future control will be devolved to a more decentralized and open smart contract system for implementation, permitting the community to have more ability to make proposals and have control.
 
 > **Buyers**
 >
@@ -18,11 +18,11 @@
 
 > **Brokers**
 >
-> Refers to brokers who pledge the corresponding \$ShopFi in ShopFi to get qualified. This role will perform a series of actions for the buyer to complete the traditional transaction in the designated mall according to dispatched order including shipping goods or services to the buyer's designated address.
+> Refers to brokers who pledge the corresponding $ShopFi in ShopFi to get qualified. This role will perform a series of actions for the buyer to complete the traditional transaction in the designated mall according to dispatched order including shipping goods or services to the buyer's designated address.
 
 > **Nodes**
 >
-> Refers to servers running in the ShopFi Global after pledging a certain amount of \$ShopFi token. Those servers are responsible for performing various tasks specified by ShopFi and obtaining corresponding incentives through Proof of Procedures (PoP).
+> Refers to servers running in the ShopFi Global after pledging a certain amount of $ShopFi token. Those servers are responsible for performing various tasks specified by ShopFi and obtaining corresponding incentives through Proof of Procedures (PoP).
 
 > **Proof of Procedures**
 >
@@ -44,13 +44,13 @@
 >
 > Refers to Decentralized Applications that use ShopFi's protocol, SDK, and documentation. These applications may be officially developed on ShopFi or produced by third-party community developers. Users can use these DApps to perform corresponding operations on ShopFi.
 
-> **\$ShopFi Token**
+> **$ShopFi Token**
 >
-> Refers to the token issued by ShopFi Network, which will empower the ecology from all aspects and encourage participants in all ways to make their own contributions to the development of the ecology. The \$ShopFi token will be issued using the ERC20 standard. For details, please refer to the following chapter: Tokenomics.
+> Refers to the token issued by ShopFi Network, which will empower the ecology from all aspects and encourage participants in all ways to make their own contributions to the development of the ecology. The $ShopFi token will be issued using the ERC20 standard. For details, please refer to the following chapter: Tokenomics.
 
 > **Token Holders**
 >
-> Refers to users who believe in the future development of the ShopFi ecosystem and are holding \$ShopFi tokens. Token holders will have different rights in different perspectives.
+> Refers to users who believe in the future development of the ShopFi ecosystem and are holding $ShopFi tokens. Token holders will have different rights in different perspectives.
 
 > **SIP (ShopFi Improvement Proposals)**
 >
