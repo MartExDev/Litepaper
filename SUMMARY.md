@@ -49,10 +49,6 @@
 
 * [Risks](risks/risks.md)
 
-## References
-
-* [References](references/references.md)
-
 ## Community
 
 * [Twitter](https://twitter.com/shopfi\_app)
