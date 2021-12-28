@@ -84,12 +84,12 @@ Market & Business Model
 Governance
 {% endhint %}
 
-{% content-ref url="governance/tokenomics.md" %}
-[tokenomics.md](governance/tokenomics.md)
+{% content-ref url="governance/governance/tokenomics.md" %}
+[tokenomics.md](governance/governance/tokenomics.md)
 {% endcontent-ref %}
 
-{% content-ref url="governance/incentives.md" %}
-[incentives.md](governance/incentives.md)
+{% content-ref url="governance/governance/incentives.md" %}
+[incentives.md](governance/governance/incentives.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}

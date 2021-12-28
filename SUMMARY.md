@@ -42,8 +42,8 @@
 
 ## Governance
 
-* [Tokenomics](governance/tokenomics.md)
-* [Incentives](governance/incentives.md)
+* [Tokenomics](governance/governance/tokenomics.md)
+* [Incentives](governance/governance/incentives.md)
 
 ## Risks
 
