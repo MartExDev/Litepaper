@@ -1,0 +1,10 @@
+{
+    "plugins": [
+        "sitemap"
+    ],
+    "pluginsConfig": {
+        "sitemap": {
+            "hostname": "https://docs.shopfi.app/"
+        }
+    }
+}
