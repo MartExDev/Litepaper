@@ -22,7 +22,7 @@ This document tries to introduce the ideas and concepts of the ShopFi project, f
 **This version is only produced for the community to review and it's subject to change.**
 {% endhint %}
 
-### Links:
+### Links
 
 * Website: [https://shopfi.app](https://shopfi.app)
 * Twitter: [https://twitter.com/shopfi\_app](https://twitter.com/shopfi\_app)
