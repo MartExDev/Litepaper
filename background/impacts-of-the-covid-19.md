@@ -2,13 +2,13 @@
 
 COVID-19 had far-reaching consequences for the entire world, in terms of politics, everyday life, and the economy. Telework from home became a new trend, the physical economy, especially the travel industry, experienced decline, but online transactions and communication became common occurrences.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 According to a report issued by the United Nations Conference on Trade and Development that was published on 05/03/2021, due to the shutdowns occasioned by Coronavirus, there was sudden growth of e-commerce, with online sales growing from 16% of all retail sales in 2020 to 19%. (Source: "[Estimates of Global Ecommerce 2019 and preliminary assessment of COVID-19 impact on online retail 2020"](https://unctad.org/system/files/official-document/tn\_unctad\_ict4d18\_en.pdf))
 
 According to the report, there was notable increase in a number of countries in regards to online sales, for South Korea the share was the highest, and in 2020 it reached 25.9%, which was higher than 20.8% in the previous year. At the same time, according to the latest estimates, global e-commerce sales jumped to 2.67 billion USD in 2019, which was 4% higher than 2018. This includes Business to Business (B2B), and Business to Consumer (B2C) sales figures, this is comparable to 30% of global gross domestic product for that year. These statistical data show that the importance of online activities is increasing.
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (11) (1).png>)
 
 There is probably no industry that has not been affected by the global coronavirus pandemic and the successive number of weeks spent in isolation.
 

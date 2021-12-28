@@ -5,7 +5,7 @@ Without a doubt, e-commerce is one of the most successful cases of innovation on
 As is depicted in the table below, the volume of e-commerce trade in 2020 exceeded 4.28 billion USD, and it is predicted in the next several years the total of volume of transactions will reach 6.38 billion USD.\
 
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 The market research firm eMarketer estimated that: "worldwide e-commerce sales grew by 27.6% in 2020, with a total of 4.28 billion USD. "The McKinsey Company recently stated that in regards to future research on US trends, since the start of Coronavirus, 21% of Americans have tried the new digital purchasing modality, 80% of which decided to maintain this practice in the future.
 
