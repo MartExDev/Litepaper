@@ -7,7 +7,7 @@ $ShopFi is a multi-chain ERC20-compatible token, it plays a vital role in ShopFi
 | Token type:           | ERC20 token compatible with EVM |
 | Name:                 | ShopFi Token                    |
 | Total supply:         | 1,000,000,000 ( 1 Billion)      |
-| Initial Price at TGE: | 0.06 USD                        |
+| Initial Price at TGE: | TBA                             |
 | Initial Supply:       | TBA                             |
 
 ![](<../../.gitbook/assets/image (7).png>)
