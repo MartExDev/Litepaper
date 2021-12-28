@@ -27,6 +27,6 @@ This document tries to introduce the ideas and concepts of the ShopFi project, f
 * Website: [https://shopfi.app](https://shopfi.app)
 * Twitter: [https://twitter.com/shopfi\_app](https://twitter.com/shopfi\_app)
 * Telegram: [https://t.me/shopfi\_official](https://t.me/shopfi\_official)
-* Medium: [https://shopfi.medium.com/](https://shopfi.medium.com)
+* Medium: [https://shopfi.medium.com](https://shopfi.medium.com)
 * Discord: [https://discord.gg/TUVqu5q68D](https://discord.gg/TUVqu5q68D)
 * Github: [https://github.com/ShopFi-App](https://github.com/ShopFi-App)
