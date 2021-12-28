@@ -30,7 +30,7 @@
 
 * [Fashion and Groceries](use-cases/fashion-and-groceries.md)
 * [Online Media / Services](use-cases/online-media-services.md)
-* [Travelling](use-cases/travelling.md)
+* [Traveling](use-cases/travelling.md)
 * [Block Trades](use-cases/block-trades.md)
 
 ## Market & Business Model

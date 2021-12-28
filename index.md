@@ -45,12 +45,28 @@ Introduction
 {% endcontent-ref %}
 
 {% hint style="info" %}
-Use Cases
+Technology
 {% endhint %}
 
-{% content-ref url="use-cases/travelling.md" %}
-[travelling.md](use-cases/travelling.md)
+{% content-ref url="technology/comparison.md" %}
+[comparison.md](technology/comparison.md)
 {% endcontent-ref %}
+
+{% content-ref url="technology/impossible-triangle.md" %}
+[impossible-triangle.md](technology/impossible-triangle.md)
+{% endcontent-ref %}
+
+{% content-ref url="technology/system-design.md" %}
+[system-design.md](technology/system-design.md)
+{% endcontent-ref %}
+
+{% content-ref url="technology/privacy-preserving.md" %}
+[privacy-preserving.md](technology/privacy-preserving.md)
+{% endcontent-ref %}
+
+{% hint style="info" %}
+Use Cases
+{% endhint %}
 
 {% content-ref url="use-cases/fashion-and-groceries.md" %}
 [fashion-and-groceries.md](use-cases/fashion-and-groceries.md)
@@ -58,6 +74,14 @@ Use Cases
 
 {% content-ref url="use-cases/online-media-services.md" %}
 [online-media-services.md](use-cases/online-media-services.md)
+{% endcontent-ref %}
+
+{% content-ref url="use-cases/travelling.md" %}
+[travelling.md](use-cases/travelling.md)
+{% endcontent-ref %}
+
+{% content-ref url="use-cases/block-trades.md" %}
+[block-trades.md](use-cases/block-trades.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
