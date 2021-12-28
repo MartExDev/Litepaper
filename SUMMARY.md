@@ -19,6 +19,13 @@
 * [Roles in Ecosystem](introduction/roles-in-ecosystem.md)
 * [ShopFi Products](introduction/shopfi-products.md)
 
+## Technology
+
+* [Comparison](technology/comparison.md)
+* [Impossible Triangle](technology/impossible-triangle.md)
+* [System Design](technology/system-design.md)
+* [Privacy Preserving](technology/privacy-preserving.md)
+
 ## Use Cases
 
 * [Fashion and Groceries](use-cases/fashion-and-groceries.md)
@@ -35,9 +42,8 @@
 
 ## Governance
 
-* [Governance](governance/governance/README.md)
-  * [Tokenomics](governance/governance/tokenomics.md)
-  * [Incentives](governance/governance/incentives.md)
+* [Tokenomics](governance/tokenomics.md)
+* [Incentives](governance/incentives.md)
 
 ## Risks
 
