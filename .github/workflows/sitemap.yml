@@ -35,5 +35,12 @@ jobs:
           git config --global user.name 'Anon Ivy'
           git config --global user.email 'dev@shopfi.app'
           git add "./sitemap.xml"
-          git commit -am "Sitemap generation"
-          git push
+          set +e  # Grep succeeds with nonzero exit codes to show results.
+          git status | grep modified
+          if [ $? -eq 0 ]; then
+            git commit -am "Sitemap generation"
+            git push
+          else
+            set -e
+            echo "No changes since last run"            
+          fi
