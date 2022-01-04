@@ -2,9 +2,7 @@
 
 Therefore, it is not as simple as it seems to be to put an entire process of e-commerce onto the blockchain. As described in the “impossible triangle” involved in blockchain technology, we also have a few essential things to consider here. The main points are as follows:
 
-![](https://lh3.googleusercontent.com/PD-99\_SrycT2yp9A3vbeAxAtVscPIOg-NxtNcArjeJ6\_SAAaTmyVQNW8-xAg6cwQfpCbJkYHjPRhGJd7vZdYw3F20-U7JUApo3va3yfsWnZnszere\_XXyOa1Dkn4URP9jpq02Obe)
-
-
+![](<../.gitbook/assets/image (3).png>)
 
 1. Be decentralized as much as we can to form a mutual trust mechanism, which is the foundation of blockchain-based projects.
 2. Security, it is necessary to ensure that the users' assets are always safe under all circumstances.

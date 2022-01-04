@@ -11,4 +11,4 @@ ShopFi includes a series of products as below:
    1. ShopFi team made.
    2. Dev community made.
 
-![](<../.gitbook/assets/image (12).png>)
+![](<../.gitbook/assets/image (12) (1).png>)

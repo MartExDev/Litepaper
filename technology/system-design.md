@@ -17,4 +17,4 @@ Through the design above, ShopFi uses innovative contract technology to preserve
 
 Through this process, we can freely define the process flow of each order and allow them to have their different transaction procedures, such as successful completion or return and exchange. Due to the existence of PoP consensus, we can find all required information through any step, so we can ensure the data is sufficiently secure while ensuring efficiency, as well as all orders and all state changes can be easily verified if it’s necessary. As shown below:
 
-![](https://lh6.googleusercontent.com/SItBCRevdQqwqlDBM1Yd-WnD6\_Y1IhmK3IlOZO0YeymQ-QSKb8k7Ms96ES\_aUGLo-XI07lduKRPyAzm2303CtITvMe53aQLcP3gF5yfIn757HD\_JlC6ssXWggdrqdXBvNUf9qvvE)
+![](<../.gitbook/assets/image (14).png>)

@@ -8,8 +8,8 @@ Let's go through how an order is processed and states are circulated on a tradit
 4. Involving third-party reliance such as logistics.&#x20;
 5. Each status change needs to push a corresponding message to different parties.
 
-![Normal Order Processing Procedures](https://lh6.googleusercontent.com/8\_GLYjwuQ8b6gU2mZxNHCRFdXvs7Le33JSiaDmZsBV86EKPkNFyuhiT0H0Hn1PxcOI2FTb\_KQQ61TzMX9LD4r3aRteXzpc2Db\_9SZW8iRrYCPrZDoHx2nj7lRcL2UGfFJXfJqI4D)
+![](<../.gitbook/assets/image (1).png>)
 
-![Order Exchange Processing Procedures](https://lh6.googleusercontent.com/svShxDULwlVrzGYPOlwNdzYEeukuqkx7l3oB84Jdy6NLdEmMpu4KrIX7z3V3JNZZYWxF93IOz5TAvbNdi6obUNSMDees2IGwlyl4ofZ3yhVtnuDfGpf3S6qMh00VxFwBMbN3RcVD)
+![](<../.gitbook/assets/image (8).png>)
 
-![Order Refund Processing Procedures](https://lh4.googleusercontent.com/NAoU1iXDdZrlzmrt3z0ZB9UnCwcj\_eA-JdyOJqMiMqMuDYjdlXOXpemqQmOdEDGOEJ-11LEHzchZ9NLCX0zSYSG4HEFWNfZFoIfTr4vUu2NjVnWuYtJapcK76cefd5eluJsvBua6)
+![](<../.gitbook/assets/image (12).png>)
