@@ -10,7 +10,7 @@ ShopFi provides a completely new mode in an innovative way to serve as a bridge 
 
 ShopFi has a deep appreciation of the importance of privacy, so there is a consistent effort placed on putting user privacy at the forefront. In the design of the ShopFi system, there has been comprehensive consideration of user privacy. In the ShopFi system, the user does not need to be concerned about his privacy, since the protection of privacy in ShopFi is at the system level, the corresponding private information should only be minimally revealed, as shown in the figure below:
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (13) (1).png>)
 
 
 

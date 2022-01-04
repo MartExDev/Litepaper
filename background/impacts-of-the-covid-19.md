@@ -2,7 +2,7 @@
 
 COVID-19 had far-reaching consequences for the entire world, in terms of politics, everyday life, and the economy. Telework from home became a new trend, the physical economy, especially the travel industry, experienced decline, but online transactions and communication became common occurrences.
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 According to a report issued by the United Nations Conference on Trade and Development that was published on 05/03/2021, due to the shutdowns occasioned by Coronavirus, there was sudden growth of e-commerce, with online sales growing from 16% of all retail sales in 2020 to 19%. (Source: "[Estimates of Global Ecommerce 2019 and preliminary assessment of COVID-19 impact on online retail 2020"](https://unctad.org/system/files/official-document/tn\_unctad\_ict4d18\_en.pdf))
 

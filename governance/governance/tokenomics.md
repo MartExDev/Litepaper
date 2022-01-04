@@ -10,5 +10,4 @@ $ShopFi is a multi-chain ERC20-compatible token, it plays a vital role in ShopFi
 | Initial Price at TGE: | TBA                             |
 | Initial Supply:       | TBA                             |
 
-![](<../../.gitbook/assets/image (7) (1).png>)
-
+![$ShopFi Token Distribution](<../../.gitbook/assets/image (4).png>)
