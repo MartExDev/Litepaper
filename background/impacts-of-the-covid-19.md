@@ -16,7 +16,7 @@ Under these circumstances, digitization was accelerated, such as in the contexts
 
 On the other hand, the purchasing of printers, headphones, or computers from local retailers is similar to purchasing other every day or non- every day times, but this remained impossible for some period of time. Up until now, e-commerce has become a significant segment of consumers, and in the future, they will become even more important.
 
-![](<../.gitbook/assets/image (15).png>)
+![](<../.gitbook/assets/image (15) (1).png>)
 
 According to a survey from German Digital Association Bitkom, more than 50% of people believe that online trade has become a central function of supply. Since the start of the COVID-19 pandemic, more than 20% of people have made online purchases. In a study by Forrester Consulting, more than 70% of consumers state that they are buying more products online than regular.
 
